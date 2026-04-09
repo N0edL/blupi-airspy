@@ -1,0 +1,209 @@
+Logfile: 2_390-395_9-4.mylog | Date: 2024-09-04 | Time: 21:23:31–21:39:29
+Appname: blupi-airspy-direct.py
+
+Note: Op 21:32:32 Reed er een politie vito langs! Alleen voor en erna niks gedetecteed.
+
+======================================================
+  Blupi — Airspy Mini  |  C2000 EU uplink
+  Band  : 390–395 MHz
+  Bins  : 2880  (~1.7 kHz/bin)
+=======================================================
+
+[OK]  Airspy Mini geopend
+[OK]  Center : 392.5 MHz
+[OK]  Band   : 390–395 MHz
+[OK]  Gain   : 14
+
+[OK]  Scan gestart — Ctrl+C om te stoppen
+
+[21:23:31]  390–395 MHz  |  gem: -25.0 dB  |  stddev: 0.3889
+[21:23:41]  390–395 MHz  |  gem: -25.6 dB  |  stddev: 0.2083
+At 21:23:50, a 14.6 dB/Hz signal was detected at 391.416 MHz.
+[21:23:51]  390–395 MHz  |  gem: -25.8 dB  |  stddev: 0.2546
+[21:24:01]  390–395 MHz  |  gem: -25.4 dB  |  stddev: 0.2204
+[21:24:11]  390–395 MHz  |  gem: -25.8 dB  |  stddev: 0.2433
+[21:24:21]  390–395 MHz  |  gem: -26.3 dB  |  stddev: 0.2986
+[21:24:31]  390–395 MHz  |  gem: -25.7 dB  |  stddev: 0.1966
+[21:24:41]  390–395 MHz  |  gem: -24.7 dB  |  stddev: 0.3440
+[21:24:51]  390–395 MHz  |  gem: -24.5 dB  |  stddev: 0.3576
+[21:25:01]  390–395 MHz  |  gem: -24.7 dB  |  stddev: 0.3535
+[21:25:11]  390–395 MHz  |  gem: -24.8 dB  |  stddev: 0.3934
+[21:25:21]  390–395 MHz  |  gem: -22.8 dB  |  stddev: 0.6577
+[21:25:31]  390–395 MHz  |  gem: -25.0 dB  |  stddev: 0.2798
+[21:25:41]  390–395 MHz  |  gem: -25.1 dB  |  stddev: 0.3201
+[21:25:51]  390–395 MHz  |  gem: -25.2 dB  |  stddev: 0.3647
+[21:26:01]  390–395 MHz  |  gem: -24.3 dB  |  stddev: 0.1909
+[21:26:11]  390–395 MHz  |  gem: -25.4 dB  |  stddev: 0.4137
+[21:26:21]  390–395 MHz  |  gem: -24.5 dB  |  stddev: 0.5897
+[21:26:31]  390–395 MHz  |  gem: -24.1 dB  |  stddev: 0.3962
+[21:26:41]  390–395 MHz  |  gem: -24.7 dB  |  stddev: 0.2987
+[21:26:51]  390–395 MHz  |  gem: -24.1 dB  |  stddev: 0.5053
+[21:27:01]  390–395 MHz  |  gem: -23.7 dB  |  stddev: 0.4947
+[21:27:11]  390–395 MHz  |  gem: -20.6 dB  |  stddev: 0.3348
+[21:27:21]  390–395 MHz  |  gem: -22.7 dB  |  stddev: 0.6998
+[21:27:31]  390–395 MHz  |  gem: -19.6 dB  |  stddev: 0.5219
+[21:27:41]  390–395 MHz  |  gem: -21.8 dB  |  stddev: 0.2918
+[21:27:51]  390–395 MHz  |  gem: -21.9 dB  |  stddev: 0.4940
+[21:28:01]  390–395 MHz  |  gem: -22.0 dB  |  stddev: 0.4275
+[21:28:11]  390–395 MHz  |  gem: -22.8 dB  |  stddev: 0.4523
+[21:28:21]  390–395 MHz  |  gem: -21.9 dB  |  stddev: 0.4458
+[21:28:31]  390–395 MHz  |  gem: -21.4 dB  |  stddev: 0.3770
+[21:28:41]  390–395 MHz  |  gem: -22.5 dB  |  stddev: 0.3880
+[21:28:51]  390–395 MHz  |  gem: -23.2 dB  |  stddev: 0.2974
+[21:29:01]  390–395 MHz  |  gem: -23.9 dB  |  stddev: 0.3194
+[21:29:11]  390–395 MHz  |  gem: -24.3 dB  |  stddev: 0.3944
+[21:29:21]  390–395 MHz  |  gem: -25.0 dB  |  stddev: 0.2099
+At 21:29:23, a 8.5 dB/Hz signal was detected at 393.5913 MHz.
+[21:29:31]  390–395 MHz  |  gem: -24.6 dB  |  stddev: 0.2179
+[21:29:41]  390–395 MHz  |  gem: -24.9 dB  |  stddev: 0.3983
+At 21:29:47, a 25.8 dB/Hz signal was detected at 390.4404 MHz.
+At 21:29:47, a 26.1 dB/Hz signal was detected at 390.4419 MHz.
+At 21:29:47, a 21.2 dB/Hz signal was detected at 393.5825 MHz.
+[21:29:51]  390–395 MHz  |  gem: -23.6 dB  |  stddev: 0.6208
+[21:30:01]  390–395 MHz  |  gem: -22.7 dB  |  stddev: 0.5673
+At 21:30:06, a 24.6 dB/Hz signal was detected at 392.2319 MHz.
+At 21:30:06, a 24.2 dB/Hz signal was detected at 392.2393 MHz.
+At 21:30:06, a 26.0 dB/Hz signal was detected at 392.2422 MHz.
+[21:30:11]  390–395 MHz  |  gem: -23.6 dB  |  stddev: 0.8131
+[21:30:21]  390–395 MHz  |  gem: -24.6 dB  |  stddev: 0.2694
+[21:30:31]  390–395 MHz  |  gem: -24.8 dB  |  stddev: 0.3366
+[21:30:41]  390–395 MHz  |  gem: -25.1 dB  |  stddev: 0.3371
+[21:30:51]  390–395 MHz  |  gem: -25.3 dB  |  stddev: 0.2923
+At 21:31:01, a 10.9 dB/Hz signal was detected at 390.4316 MHz.
+At 21:31:01, a 15.1 dB/Hz signal was detected at 390.4346 MHz.
+At 21:31:01, a 15.2 dB/Hz signal was detected at 390.436 MHz.
+At 21:31:01, a 11.8 dB/Hz signal was detected at 390.4375 MHz.
+At 21:31:01, a 15.5 dB/Hz signal was detected at 390.4404 MHz.
+At 21:31:01, a 16.9 dB/Hz signal was detected at 390.4419 MHz.
+At 21:31:01, a 12.3 dB/Hz signal was detected at 390.4434 MHz.
+At 21:31:01, a 13.4 dB/Hz signal was detected at 390.4463 MHz.
+At 21:31:01, a 12.7 dB/Hz signal was detected at 390.4478 MHz.
+At 21:31:01, a 13.6 dB/Hz signal was detected at 392.2305 MHz.
+At 21:31:01, a 15.5 dB/Hz signal was detected at 392.2334 MHz.
+At 21:31:01, a 11.3 dB/Hz signal was detected at 392.2349 MHz.
+At 21:31:01, a 11.9 dB/Hz signal was detected at 392.2407 MHz.
+At 21:31:01, a 13.4 dB/Hz signal was detected at 392.2437 MHz.
+At 21:31:01, a 13.4 dB/Hz signal was detected at 392.248 MHz.
+At 21:31:01, a 15.8 dB/Hz signal was detected at 393.5854 MHz.
+At 21:31:01, a 13.7 dB/Hz signal was detected at 393.5869 MHz.
+At 21:31:01, a 13.2 dB/Hz signal was detected at 393.5957 MHz.
+[21:31:01]  390–395 MHz  |  gem: -25.1 dB  |  stddev: 0.3447
+[21:31:11]  390–395 MHz  |  gem: -25.3 dB  |  stddev: 0.4276
+[21:31:21]  390–395 MHz  |  gem: -25.5 dB  |  stddev: 0.2556
+[21:31:31]  390–395 MHz  |  gem: -25.5 dB  |  stddev: 0.4098
+[21:31:41]  390–395 MHz  |  gem: -25.3 dB  |  stddev: 0.3029
+[21:31:51]  390–395 MHz  |  gem: -25.0 dB  |  stddev: 0.4480
+[21:32:01]  390–395 MHz  |  gem: -24.8 dB  |  stddev: 0.4177
+[21:32:11]  390–395 MHz  |  gem: -23.0 dB  |  stddev: 0.3955
+[21:32:21]  390–395 MHz  |  gem: -22.7 dB  |  stddev: 0.4312
+[21:32:31]  390–395 MHz  |  gem: -23.4 dB  |  stddev: 0.3256
+At 21:32:32, a 35.9 dB/Hz signal was detected at 392.2407 MHz.
+[21:32:41]  390–395 MHz  |  gem: -24.0 dB  |  stddev: 0.2588
+[21:32:51]  390–395 MHz  |  gem: -23.6 dB  |  stddev: 0.5081
+[21:33:01]  390–395 MHz  |  gem: -23.7 dB  |  stddev: 0.3678
+[21:33:11]  390–395 MHz  |  gem: -23.8 dB  |  stddev: 0.4061
+[21:33:21]  390–395 MHz  |  gem: -22.3 dB  |  stddev: 1.9724
+[21:33:31]  390–395 MHz  |  gem: -24.1 dB  |  stddev: 0.3837
+[21:33:41]  390–395 MHz  |  gem: -22.8 dB  |  stddev: 1.0961
+[21:33:51]  390–395 MHz  |  gem: -22.2 dB  |  stddev: 0.6114
+[21:34:01]  390–395 MHz  |  gem: -23.0 dB  |  stddev: 0.3078
+[21:34:11]  390–395 MHz  |  gem: -22.5 dB  |  stddev: 0.5266
+[21:34:21]  390–395 MHz  |  gem: -23.4 dB  |  stddev: 0.2952
+[21:34:31]  390–395 MHz  |  gem: -23.6 dB  |  stddev: 0.2579
+[21:34:41]  390–395 MHz  |  gem: -24.0 dB  |  stddev: 0.2554
+[21:34:51]  390–395 MHz  |  gem: -24.1 dB  |  stddev: 0.3568
+[21:35:01]  390–395 MHz  |  gem: -25.6 dB  |  stddev: 0.4201
+[21:35:11]  390–395 MHz  |  gem: -26.3 dB  |  stddev: 0.2533
+[21:35:21]  390–395 MHz  |  gem: -26.8 dB  |  stddev: 0.2518
+At 21:35:25, a 14.1 dB/Hz signal was detected at 393.5811 MHz.
+At 21:35:25, a 16.6 dB/Hz signal was detected at 393.5825 MHz.
+At 21:35:25, a 18.5 dB/Hz signal was detected at 393.584 MHz.
+At 21:35:25, a 16.1 dB/Hz signal was detected at 393.5854 MHz.
+At 21:35:25, a 15.3 dB/Hz signal was detected at 390.4302 MHz.
+At 21:35:25, a 12.3 dB/Hz signal was detected at 390.4331 MHz.
+At 21:35:25, a 17.2 dB/Hz signal was detected at 390.4346 MHz.
+At 21:35:25, a 14.6 dB/Hz signal was detected at 390.436 MHz.
+At 21:35:25, a 12.6 dB/Hz signal was detected at 390.4434 MHz.
+At 21:35:25, a 12.8 dB/Hz signal was detected at 393.5796 MHz.
+At 21:35:25, a 15.0 dB/Hz signal was detected at 393.5811 MHz.
+At 21:35:25, a 16.4 dB/Hz signal was detected at 393.584 MHz.
+At 21:35:25, a 16.0 dB/Hz signal was detected at 393.5854 MHz.
+At 21:35:25, a 13.2 dB/Hz signal was detected at 393.5942 MHz.
+At 21:35:25, a 13.0 dB/Hz signal was detected at 393.5986 MHz.
+At 21:35:25, a 18.0 dB/Hz signal was detected at 390.4404 MHz.
+At 21:35:25, a 18.8 dB/Hz signal was detected at 390.4419 MHz.
+At 21:35:25, a 13.4 dB/Hz signal was detected at 390.4434 MHz.
+At 21:35:25, a 12.1 dB/Hz signal was detected at 392.2407 MHz.
+At 21:35:25, a 13.3 dB/Hz signal was detected at 393.584 MHz.
+At 21:35:25, a 15.7 dB/Hz signal was detected at 393.5898 MHz.
+At 21:35:25, a 19.3 dB/Hz signal was detected at 393.5913 MHz.
+At 21:35:25, a 15.7 dB/Hz signal was detected at 393.5928 MHz.
+[21:35:31]  390–395 MHz  |  gem: -22.9 dB  |  stddev: 1.4648
+[21:35:41]  390–395 MHz  |  gem: -27.3 dB  |  stddev: 0.2827
+At 21:35:51, a 10.9 dB/Hz signal was detected at 390.4302 MHz.
+At 21:35:51, a 12.4 dB/Hz signal was detected at 390.4316 MHz.
+At 21:35:51, a 17.9 dB/Hz signal was detected at 390.4331 MHz.
+At 21:35:51, a 22.9 dB/Hz signal was detected at 390.4346 MHz.
+At 21:35:51, a 22.7 dB/Hz signal was detected at 390.436 MHz.
+At 21:35:51, a 20.4 dB/Hz signal was detected at 390.4375 MHz.
+At 21:35:51, a 13.9 dB/Hz signal was detected at 390.439 MHz.
+At 21:35:51, a 17.6 dB/Hz signal was detected at 390.4404 MHz.
+At 21:35:51, a 13.5 dB/Hz signal was detected at 390.4419 MHz.
+At 21:35:51, a 17.5 dB/Hz signal was detected at 390.4434 MHz.
+At 21:35:51, a 7.8 dB/Hz signal was detected at 390.4492 MHz.
+At 21:35:51, a 9.7 dB/Hz signal was detected at 392.2349 MHz.
+At 21:35:51, a 15.8 dB/Hz signal was detected at 393.5811 MHz.
+At 21:35:51, a 17.8 dB/Hz signal was detected at 393.5825 MHz.
+At 21:35:51, a 15.2 dB/Hz signal was detected at 393.584 MHz.
+At 21:35:51, a 19.1 dB/Hz signal was detected at 393.5854 MHz.
+At 21:35:51, a 17.5 dB/Hz signal was detected at 393.5869 MHz.
+At 21:35:51, a 17.3 dB/Hz signal was detected at 393.5884 MHz.
+At 21:35:51, a 12.7 dB/Hz signal was detected at 393.5898 MHz.
+At 21:35:51, a 19.4 dB/Hz signal was detected at 393.5913 MHz.
+At 21:35:51, a 14.4 dB/Hz signal was detected at 393.5928 MHz.
+At 21:35:51, a 22.7 dB/Hz signal was detected at 390.4331 MHz.
+At 21:35:51, a 22.0 dB/Hz signal was detected at 390.4346 MHz.
+[21:35:51]  390–395 MHz  |  gem: -26.8 dB  |  stddev: 0.2684
+[21:36:01]  390–395 MHz  |  gem: -27.0 dB  |  stddev: 0.4087
+[21:36:11]  390–395 MHz  |  gem: -25.4 dB  |  stddev: 0.5903
+[21:36:21]  390–395 MHz  |  gem: -25.1 dB  |  stddev: 0.3296
+[21:36:31]  390–395 MHz  |  gem: -24.8 dB  |  stddev: 0.2898
+[21:36:41]  390–395 MHz  |  gem: -24.8 dB  |  stddev: 0.1771
+[21:36:51]  390–395 MHz  |  gem: -26.1 dB  |  stddev: 0.2156
+[21:37:01]  390–395 MHz  |  gem: -24.2 dB  |  stddev: 0.3472
+[21:37:11]  390–395 MHz  |  gem: -25.0 dB  |  stddev: 0.4753
+[21:37:21]  390–395 MHz  |  gem: -24.2 dB  |  stddev: 0.4842
+[21:37:31]  390–395 MHz  |  gem: -24.6 dB  |  stddev: 0.2398
+[21:37:41]  390–395 MHz  |  gem: -24.3 dB  |  stddev: 0.4106
+[21:37:51]  390–395 MHz  |  gem: -25.1 dB  |  stddev: 0.2931
+[21:38:01]  390–395 MHz  |  gem: -25.0 dB  |  stddev: 0.8216
+[21:38:11]  390–395 MHz  |  gem: -25.3 dB  |  stddev: 0.3309
+[21:38:21]  390–395 MHz  |  gem: -24.8 dB  |  stddev: 0.3491
+[21:38:31]  390–395 MHz  |  gem: -25.0 dB  |  stddev: 0.2575
+[21:38:41]  390–395 MHz  |  gem: -25.2 dB  |  stddev: 0.2947
+[21:38:51]  390–395 MHz  |  gem: -25.0 dB  |  stddev: 0.9489
+[21:39:01]  390–395 MHz  |  gem: -24.4 dB  |  stddev: 0.2531
+[21:39:11]  390–395 MHz  |  gem: -25.6 dB  |  stddev: 0.6737
+[21:39:21]  390–395 MHz  |  gem: -24.0 dB  |  stddev: 0.2769
+At 21:39:29, a 16.4 dB/Hz signal was detected at 393.5811 MHz.
+At 21:39:29, a 16.9 dB/Hz signal was detected at 393.5825 MHz.
+At 21:39:29, a 14.8 dB/Hz signal was detected at 393.5869 MHz.
+At 21:39:29, a 13.8 dB/Hz signal was detected at 393.5884 MHz.
+At 21:39:29, a 14.5 dB/Hz signal was detected at 393.5942 MHz.
+At 21:39:29, a 16.7 dB/Hz signal was detected at 393.5957 MHz.
+At 21:39:29, a 16.6 dB/Hz signal was detected at 390.4302 MHz.
+At 21:39:29, a 21.1 dB/Hz signal was detected at 390.4316 MHz.
+At 21:39:29, a 19.7 dB/Hz signal was detected at 390.4331 MHz.
+At 21:39:29, a 13.4 dB/Hz signal was detected at 390.4346 MHz.
+At 21:39:29, a 14.6 dB/Hz signal was detected at 390.4434 MHz.
+At 21:39:29, a 12.6 dB/Hz signal was detected at 390.4478 MHz.
+At 21:39:29, a 13.1 dB/Hz signal was detected at 390.4492 MHz.
+[21:39:31]  390–395 MHz  |  gem: -24.5 dB  |  stddev: 0.5981
+[21:39:41]  390–395 MHz  |  gem: -24.6 dB  |  stddev: 0.3160
+[21:39:51]  390–395 MHz  |  gem: -24.6 dB  |  stddev: 0.2979
+[21:40:01]  390–395 MHz  |  gem: -24.2 dB  |  stddev: 0.3427
+[21:40:12]  390–395 MHz  |  gem: -25.2 dB  |  stddev: 0.1508
+[21:40:22]  390–395 MHz  |  gem: -25.6 dB  |  stddev: 0.2764
+[21:40:32]  390–395 MHz  |  gem: -25.6 dB  |  stddev: 0.1664
+
+Buh-bye
