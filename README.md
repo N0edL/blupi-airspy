@@ -1,4 +1,6 @@
-# BluPi
+### Note: Readme is not yet updated for airspy mini!
+
+# BluPi RTL SDR
 
 ### Overview
 
