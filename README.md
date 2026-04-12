@@ -1,4 +1,4 @@
-### Note: Readme is not yet updated for airspy mini!
+### Note: Readme is not yet updated for airspy mini! and mind the code for the airspy is not for a Pi!
 
 # BluPi RTL SDR
 
